@@ -1168,7 +1168,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
   **[⬆ Back to Top](#table-of-contents)**
 
-46. ### How do you perform error handling in observables?
+46. ### How do you perform error handling in observables? (###)
     You can handle errors by specifying an **error callback** on the observer instead of relying on try/catch which are ineffective in asynchronous environment.
 
     For example, you can define error callback as below,
